@@ -1,6 +1,6 @@
 > **Laziness:** AI GENERATED CONTENT
 
-# Wall Art Mockup Generator
+# Wall Art Mockup Generator (For Etsy, Shopify, etc..)
 
 This project is a Python script that generates wall art mockups for images and image sets. It takes images from an input directory and places them into a template image, simulating a wall frame.
 
